@@ -14,7 +14,7 @@ int main(void)
     while (1) 
     {
 		// Going round and round in circles.
-		// We are now in the AD290 branch.
+		// We are now in the AD290 branch which has been merged with master.
     }
 }
 
