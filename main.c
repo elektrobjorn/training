@@ -13,7 +13,8 @@ int main(void)
     /* Replace with your application code */
     while (1) 
     {
-		// Going round and round in circles
+		// Going round and round in circles.
+		// We are now in the AD290 branch.
     }
 }
 
